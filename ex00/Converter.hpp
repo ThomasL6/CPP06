@@ -6,7 +6,7 @@
 /*   By: thlefebv <thlefebv@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/24 11:45:59 by thlefebv          #+#    #+#             */
-/*   Updated: 2024/10/24 11:50:32 by thlefebv         ###   ########.fr       */
+/*   Updated: 2024/10/28 11:30:13 by thlefebv         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,9 @@
 
 #include <iostream>
 #include <iomanip>
-#include <limits>
+#include <climits>
 #include <string>
+#include <cstdlib>
 
 class Converter
 {
